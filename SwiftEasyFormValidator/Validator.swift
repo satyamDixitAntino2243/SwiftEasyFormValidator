@@ -9,6 +9,6 @@ import Foundation
 
 public struct Validator {
     public static func sayHi(){
-        print("Hi Droomersss, How rr youuuuuuu!!!!!")
+        print("Hi Droomersss, How rr youuuuuuu!!!!!!")
     }
 }
