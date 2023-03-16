@@ -1,0 +1,16 @@
+PODS:
+  - SwiftEasyFormValidator (1.0.0)
+
+DEPENDENCIES:
+  - SwiftEasyFormValidator (from `../SwiftEasyFormValidator`)
+
+EXTERNAL SOURCES:
+  SwiftEasyFormValidator:
+    :path: "../SwiftEasyFormValidator"
+
+SPEC CHECKSUMS:
+  SwiftEasyFormValidator: 6898af9e5dfa81f82b1d1a15ddbde35cc877d283
+
+PODFILE CHECKSUM: 52e8dd82b0d38e9efada86850e08cb7c9dd3d681
+
+COCOAPODS: 1.11.3
